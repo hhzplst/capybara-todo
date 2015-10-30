@@ -1,0 +1,8 @@
+feature test & unit test
+
+feature test gives larger test coverage (how much your app is tested) but more time consuming
+
+unit test has less coverage but it's easy to write and is a good place to start
+
+--no-test-framework
+(controller, helper, views)
